@@ -57,7 +57,6 @@ pyparsing==3.0.4
 pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2022.2.1
-pywin32==302
 pywinpty==2.0.2
 pyzmq==23.2.0
 requests==2.28.1
@@ -67,7 +66,6 @@ six==1.16.0
 sniffio==1.2.0
 soupsieve==2.3.1
 stack-data==0.2.0
-terminado==0.13.1
 testpath==0.6.0
 tinycss2==1.1.1
 tornado==6.1

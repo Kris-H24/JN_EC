@@ -348,5 +348,5 @@ XlsxWriter==3.0.3
 yapf==0.31.0
 yarl==1.6.3
 zict==2.1.0
-zipp==3.8.0
+#zipp==3.8.0
 #zope.interface==5.4.0
